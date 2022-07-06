@@ -1,0 +1,2 @@
+com/example/listentocontacts/BuildConfig.java
+ com.example.listentocontacts.BuildConfig
